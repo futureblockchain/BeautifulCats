@@ -1,0 +1,14 @@
+body {
+text-align: center;  
+}
+
+.search-box {
+  orientation: center;
+  background-color: rgb(158, 158, 53);
+  border: none;
+  outline: none;
+  padding: 10px;
+  width: 300px;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
